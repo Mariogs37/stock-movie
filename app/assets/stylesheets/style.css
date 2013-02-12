@@ -1,0 +1,12 @@
+#title, #poster, #details {
+  float: left;
+}
+
+nav li a {
+  float: left;
+  display: inline;
+}
+
+nav {
+  clear: both;
+}
